@@ -1,0 +1,38 @@
+.calculator{
+    height: 550px;
+    background-color: black;
+    border-radius: 25px;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    margin-block-start: 5em;
+    max-inline-size: 23rem;
+    overflow: hidden;
+  }
+  
+  #display{
+    height: 70px;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 30px;
+    font-size: 30px;
+  }
+  
+  .buttons{
+    margin-top: 20px;
+    margin-left: 25px;
+  }
+  
+  button {
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+    margin: 8px;
+    border-radius: 50px;
+    border: none;
+  }
+  
+  #clear{
+    width: 200px;
+    margin-left: 50px;
+  }
+  
